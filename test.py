@@ -1,1 +1,2 @@
-print ("What is your name")
+if 10 > 5:
+    print ("My name is Oyoo")
